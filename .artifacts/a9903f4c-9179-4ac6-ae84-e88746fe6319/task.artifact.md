@@ -1,0 +1,9 @@
+- [x] Add `firebase-messaging` dependency to `libs.versions.toml` and `build.gradle.kts`
+- [x] Sync Gradle
+- [x] Create `NotificationHelper` for centralized notification/UI logic
+- [x] Implement `HealthBellMessagingService` for FCM handling
+- [x] Update `AlarmReceiver` to use `NotificationHelper`
+- [x] Update `AndroidManifest.xml` with service and permissions
+- [x] Update `FirebaseModule` for Hilt support
+- [ ] Verify full-screen behavior on lock screen
+- [ ] Verify alarm sound triggers from both notification and activity
