@@ -223,5 +223,5 @@ derivative works by unauthorized developers or third parties is strictly prohibi
 ```
 
 <div align="center">
-  <sub>Developed for Client by <b>Idea Craft Lab</b> • All Rights Reserved</sub>
+  <sub>Developed for Client by <b>Sakib Mina</b> • All Rights Reserved</sub>
 </div>
